@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Rahul Appasaheb Gunjal</h1>
 <p align="center">
-  <b>Assistant System Engineer @ TCS | M.Tech (IIIT Gwalior) | Full Stack Developer | Problem Solver</b>
+  <b>M.Tech (IIIT Gwalior) | Assistant System Engineer @ TCS | Full Stack Developer | Problem Solver</b>
 </p>
 
 ---
@@ -8,7 +8,7 @@
 ## 🚀 About Me
 - 💻 Passionate **Full Stack Developer** experienced with **Java, Spring Boot, React, and Angular**
 - ⚙️ Skilled in building **scalable web applications** and **RESTful APIs**
-- 🧩 Love solving **Data Structures & Algorithms** problems — 1000+ solved across platforms
+- 🧩 Solved **1000+ DSA problems** across platforms — LeetCode, Codeforces, GFG
 - 🚀 Interested in **System Design**, **Cybersecurity**, and **Cloud Automation**
 - 🎓 Currently pursuing **M.Tech in Information and Cyber Security** at **IIIT Gwalior**
 
@@ -32,6 +32,37 @@
     <img src="https://leetcard.jacoblin.cool/Rahulgunjal?theme=dark&font=Nunito&ext=contest&border=0&radius=10" alt="LeetCode Stats" />
   </a>
 </p>
+
+<h3 align="center">🏅 LeetCode Achievements</h3>
+
+<p align="center">
+  <a href="https://assets.leetcode.com/static_assets/marketing/2024-100.gif">
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" height="120" width="120" title="100 Days Badge 2024" />
+  </a>
+  <a href="https://assets.leetcode.com/static_assets/marketing/2023-100.gif">
+    <img src="https://assets.leetcode.com/static_assets/marketing/2023-100.gif" height="120" width="120" title="100 Days Badge 2023" />
+  </a>
+  <a href="https://assets.leetcode.com/static_assets/marketing/2023-50.gif">
+    <img src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" height="120" width="120" title="50 Days Badge 2023" />
+  </a>
+  <a href="https://leetcode.com/static/images/badges/2023/gif/2023-06.gif">
+    <img src="https://leetcode.com/static/images/badges/2023/gif/2023-06.gif" height="120" width="120" title="June 2023 Badge" />
+  </a>
+  <a href="https://leetcode.com/static/images/badges/2023/gif/2023-04.gif">
+    <img src="https://leetcode.com/static/images/badges/2023/gif/2023-04.gif" height="120" width="120" title="April 2023 Badge" />
+  </a>
+  <a href="https://leetcode.com/static/images/badges/2023/gif/2023-03.gif">
+    <img src="https://leetcode.com/static/images/badges/2023/gif/2023-03.gif" height="120" width="120" title="March 2023 Badge" />
+  </a>
+  <a href="https://leetcode.com/static/images/badges/2022/gif/2022-09.gif">
+    <img src="https://leetcode.com/static/images/badges/2022/gif/2022-09.gif" height="120" width="120" title="September 2022 Badge" />
+  </a>
+  <a href="https://leetcode.com/static/images/badges/2022/gif/2022-08.gif">
+    <img src="https://leetcode.com/static/images/badges/2022/gif/2022-08.gif" height="120" width="120" title="August 2022 Badge" />
+  </a>
+</p>
+
+---
 
 ### 💻 Codeforces
 <p align="center">
@@ -75,10 +106,10 @@
 ---
 
 ## 🏅 Achievements
-- ✅ **GATE CS 2022–2024 Qualified**
-- ✅ **GATE DA 2024 Qualified**
 - 🏆 Solved **1000+ coding problems**
 - 🥇 **Top 20% finisher** in multiple coding contests
+- ✅ **GATE CS 2022–2024 Qualified**
+- ✅ **GATE DA 2024 Qualified**
 
 ---
 
