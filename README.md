@@ -39,14 +39,14 @@
   <a href="https://assets.leetcode.com/static_assets/marketing/2024-100.gif">
     <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" height="120" width="120" title="100 Days Badge 2024" />
   </a>
-  <a href="https://assets.leetcode.com/static_assets/marketing/2023-100.gif">
-    <img src="https://leetcode.com/medal/?showImg=0&id=6466496&isLevel=false)" height="120" width="120" title="100 Days Badge 2025" />
+  <a href="https://assets.leetcode.com/static_assets/marketing/2025-100.gif">
+    <img src="https://assets.leetcode.com/static_assets/marketing/2025-100.gif" height="120" width="120" title="100 Days Badge 2025" />
   </a>
-  <a href="https://assets.leetcode.com/static_assets/marketing/2023-50.gif">
-    <img src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" height="120" width="120" title="50 Days Badge 2024" />
+  <a href="https://assets.leetcode.com/static_assets/marketing/2024-50.gif">
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" height="120" width="120" title="50 Days Badge 2024" />
   </a>
-  <a href="https://assets.leetcode.com/static_assets/marketing/2023-50.gif">
-    <img src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" height="120" width="120" title="50 Days Badge 2025" />
+  <a href="https://assets.leetcode.com/static_assets/marketing/2025-50.gif">
+    <img src="https://assets.leetcode.com/static_assets/marketing/2025-50.gif" height="120" width="120" title="50 Days Badge 2025" />
   </a>
  
 </p>
