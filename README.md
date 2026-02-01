@@ -1,8 +1,7 @@
 <!-- =========================================================
    Rahul Appasaheb Gunjal — Fancy Developer README (NO table + NO long code block)
    Copy-paste into README.md
-========================================================= -->
-
+===================================================
 <!-- TOP BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0ea5e9,100:22d3ee&text=Rahul%20Appasaheb%20Gunjal&fontSize=42&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Problem%20Solver%20%E2%80%A2%20IIIT%20Gwalior%20%E2%80%A2%20TCS&descAlignY=60&animation=twinkling" />
